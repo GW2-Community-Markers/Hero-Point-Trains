@@ -15,7 +15,7 @@ Tekkit - Other used icons
 
 ![image](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/hp_run_screen.png)
 Like many of you, I'm using GW2 Taco, it's amazing overlay addon for GW2, markers were intended to be created by players just like me and you, so here is my input.
-This is collection of marker packs made by the community credit is due to original developers of assets and trails.
+This is collection of marker packs made by the community credit is due to original developers of assets and trails. Adjustments have been made to make them more uniform and further optimized.
 
 #### Quick start
 
