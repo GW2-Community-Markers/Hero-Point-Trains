@@ -2,14 +2,14 @@
 
 ### Original Trails
 
-Czokalapik - HOT
-Spookycat - POF
+* Czokalapik - HOT
+* Spookycat - POF
 
 ### Assets
 
-Czokalapik - Most of the used Icons and HOT Specific
-Spookycat - POF Specific
-Tekkit - Other used icons
+* Czokalapik - Most of the used Icons and HOT Specific
+* Spookycat - POF Specific
+* Tekkit - Other used icons
 
 # Community Coninuation and Merger of Hero Point Trains
 
