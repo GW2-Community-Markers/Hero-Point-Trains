@@ -1,0 +1,331 @@
+<OverlayData>
+<MarkerCategory name="hptrain" DisplayName="HP Train">
+<MarkerCategory name="pof" DisplayName="Path of Fire" heightOffset="2.5" fadeNear="3000" fadeFar="3100" animSpeed="0.1" texture="data\hppof\cz_trail.png">
+		  	<MarkerCategory MapID="1210" name="co" DisplayName="Crystal Oasis">
+				<MarkerCategory name="wp" DisplayName="Waypoint directions" iconSize="1.5">
+					<MarkerCategory name="tp_to_am" DisplayName="Amnoon" iconFile="data\hppof\tptoamnoon.png" />
+					<MarkerCategory name="tp_to_tok" DisplayName="Temple of Kormir" iconFile="data\hppof\tptotempleofkormir.png" />
+				</MarkerCategory>
+				<MarkerCategory name="num" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="data\hppof\1.png"/>
+					<MarkerCategory name="2" iconFile="data\hppof\2.png"/>
+					<MarkerCategory name="3" iconFile="data\hppof\3.png"/>
+					<MarkerCategory name="4" iconFile="data\hppof\4.png"/>
+					<MarkerCategory name="5" iconFile="data\hppof\5.png"/>
+					<MarkerCategory name="6" iconFile="data\hppof\6.png"/>
+					<MarkerCategory name="7" iconFile="data\hppof\7.png"/>
+					<MarkerCategory name="8" iconFile="data\hppof\8.png"/>
+					<MarkerCategory name="portal" DisplayName="Portal" iconFile="data\hppof\portal.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels" iconSize="1.5">
+					<MarkerCategory name="vetconf" DisplayName="Veteran Confessor Opeyemi" iconFile="data\hppof\CO\hpvetconfopey.png"/>
+					<MarkerCategory name="forgedore" DisplayName="Abandoned Forged Ore" iconFile="data\hppof\CO\hpabaforgedore.png"/>
+					<MarkerCategory name="unearthruins" DisplayName="Unearthed Ruins" iconFile="data\hppof\CO\hpunearthruins.png"/>
+					<MarkerCategory name="wwbottle" DisplayName="Wind-Worn Bottle" iconFile="data\hppof\CO\hpwindworn.png"/>
+					<MarkerCategory name="brandpyr" DisplayName="Branded Pyramid" iconFile="data\hppof\CO\hpbrandedpyra.png"/>
+					<MarkerCategory name="tofwp" DisplayName="Temple of Kormir" iconFile="data\hppof\CO\wptempleofkormir.png"/>
+					<MarkerCategory name="destgorge" DisplayName="Destiny's Gorge" iconFile="data\hppof\CO\wpdestinysgorge.png"/>
+					<MarkerCategory name="nextmapDH" DisplayName="Desert Highlands" iconFile="data\hppof\CO\nextmapDH.png" />
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory MapID="1211" name="dh" iconSize="1.5" DisplayName="Desert Highlands">
+				<MarkerCategory name="wp" DisplayName="Waypoint directions">
+					<MarkerCategory name="tp_to_mak" DisplayName="Makali Outpost" iconFile="data\hppof\tptomakaliop.png" />
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels" >
+					<MarkerCategory name="altroute" DisplayName="Alternative Route" iconFile="data\hppof\altroute.png"/>
+					<MarkerCategory name="glintslair" DisplayName="Glint's Lair" iconFile="data\hppof\DH\hpglints.png"/>
+					<MarkerCategory name="brandcrystal" DisplayName="Branded Crystal" iconFile="data\hppof\DH\hpbrandedcrystal.png"/>
+					<MarkerCategory name="eternalfire" DisplayName="Eternal Fire" iconFile="data\hppof\DH\hpeternalfire.png"/>
+					<MarkerCategory name="glowingcf" DisplayName="Glowing Campfire" iconFile="data\hppof\DH\hpglowingcf.png" />
+					<MarkerCategory name="vetyandra" DisplayName="Veteran Yandra Stonetusk" iconFile="data\hppof\DH\hpvetstonetusk.png"/>	
+					<MarkerCategory name="vetjubua" DisplayName="Veteran Jubua the Wildfire" iconFile="data\hppof\DH\hpvetjubua.png"/>					
+					<MarkerCategory name="dustybones" DisplayName="Dusty Bones" iconFile="data\hppof\DH\hpdustybones.png"/>
+					<MarkerCategory name="lomkraal" DisplayName="Lommuld Kraal" iconFile="data\hppof\DH\wplommuld.png"/>										
+					<MarkerCategory name="highjump" DisplayName="Highjump Ranch" iconFile="data\hppof\DH\wphighjumpranch.png"/>
+					<MarkerCategory name="deredelve" DisplayName="Derelict Delve" iconFile="data\hppof\DH\wpderelict.png"/>
+					<MarkerCategory name="brightwater" DisplayName="Brightwater" iconFile="data\hppof\DH\wpbrightwater.png" />
+					<MarkerCategory name="altrouteDH" DisplayName="Alternative Route (Griffon or Jackal&Springer)" iconFile="data\hppof\DH\altrouteDH.png"/>
+					<MarkerCategory name="nextmapER" DisplayName="Elon Riverlands" iconFile="data\hppof\DH\nextmapER.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory MapID="1212" name="er" DisplayName="Elon Riverlands"  iconSize="1.5" >
+				<MarkerCategory name="wp" DisplayName="Waypoint directions">
+					<MarkerCategory name="tp_to_aug" DisplayName="Augury's Shadow" iconFile="data\hppof\tptoaugurys.png"/>
+					<MarkerCategory name="tp_to_skim" DisplayName="Skimmer Ranch" iconFile="data\hppof\tptoskimmer.png"/>
+					<MarkerCategory name="tp_to_oli" DisplayName="Olishar's Oasis Camp" iconFile="data\hppof\tptoolishars.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels" >
+					<MarkerCategory name="fallengiant" DisplayName="Fallen Giant" iconFile="data\hppof\ER\hpfallengiant.png" />
+					<MarkerCategory name="freshmeat" DisplayName="Fresh Meat" iconFile="data\hppof\ER\hpfreshmeat.png"/>
+					<MarkerCategory name="trunt" DisplayName="Veteran Trunt" iconFile="data\hppof\ER\hpvettrunt.png"/>
+					<MarkerCategory name="pellentia" DisplayName="Throne of Pellentia" iconFile="data\hppof\ER\hpthroneofpell.png"/>
+					<MarkerCategory name="forgottenshrine" DisplayName="Forgotten Shrine" iconFile="data\hppof\ER\hpforgottenshrine.png"/>	
+					<MarkerCategory name="grave" DisplayName="General's Grave" iconFile="data\hppof\ER\hpgeneralsgrave.png"/>					
+					<MarkerCategory name="brandrelic" DisplayName="Branded Relic" iconFile="data\hppof\ER\hpbrandedrelic.png"/>
+					<MarkerCategory name="lohrashi" DisplayName="Lohrashi the Mournful" iconFile="data\hppof\ER\hplohrashi.png"/>										
+					<MarkerCategory name="skimmer" DisplayName="Skimmer Ranch" iconFile="data\hppof\ER\wpskimmerranch.png"/>
+					<MarkerCategory name="olishar" DisplayName="Olishar's Oasis Camp" iconFile="data\hppof\ER\wpolishars.png"/>
+					<MarkerCategory name="nextmapDES" DisplayName="The Desolation" iconFile="data\hppof\ER\nextmapDES.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory MapID="1213" name="des" DisplayName="The Desolation"  iconSize="1.5">
+				<MarkerCategory name="wp" DisplayName="Waypoint directions" >
+					<MarkerCategory name="tp_to_bs" DisplayName="Bonestrand" iconFile="data\hppof\tptobonestrand.png"/>
+					<MarkerCategory name="tp_to_sco" DisplayName="The Scourgeway" iconFile="data\hppof\tptoscourgeway.png"/>
+					<MarkerCategory name="tp_to_joko" DisplayName="Joko's Domain" iconFile="data\hppof\tptojokosdomain.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels">
+					<MarkerCategory name="brokegg" DisplayName="Broken Egg" iconFile="data\hppof\DES\hpbrokenegg.png"/>
+					<MarkerCategory name="gnarled" DisplayName="Gnarled Tree" iconFile="data\hppof\DES\hpgnarled.png"/>
+					<MarkerCategory name="bonepala" DisplayName="The Bone Palace" iconFile="data\hppof\DES\hpbonepalace.png"/>
+					<MarkerCategory name="shanna" DisplayName="Shanna the Valorous" iconFile="data\hppof\DES\hpshanna.png"/>
+					<MarkerCategory name="awawa" DisplayName="Awakened Wanderer" iconFile="data\hppof\DES\hpawakwand.png"/>	
+					<MarkerCategory name="mouth" DisplayName="The Mouth of Torment" iconFile="data\hppof\DES\hpmouthoftorment.png"/>					
+					<MarkerCategory name="jokos" DisplayName="Joko's Domain" iconFile="data\hppof\DES\wpjokosdomain.png"/>
+					<MarkerCategory name="lair" DisplayName="Lair of the Forgotten" iconFile="data\hppof\DES\wplairofforgotten.png"/>										
+					<MarkerCategory name="jackal" DisplayName="Sand Jackal Run" iconFile="data\hppof\DES\wpsandjackalrun.png"/>
+					<MarkerCategory name="darklands" DisplayName="The Darklands" iconFile="data\hppof\DES\wpdarklands.png"/>
+					<MarkerCategory name="scourge" DisplayName="The Scourgeway" iconFile="data\hppof\DES\wpscourgeway.png"/>
+					<MarkerCategory name="altroutespringerless" DisplayName="Springerless Route" iconFile="data\hppof\DES\springerless.png"/>
+					<MarkerCategory name="altrouteskimmer" DisplayName="Alternative Route (Skimmer)" iconFile="data\hppof\DES\altrouteskimmer.png"/>			
+					<MarkerCategory name="nextmapDOV" DisplayName="Domain of Vabbi" iconFile="data\hppof\DES\nextmapDOV.png"/>	
+				</MarkerCategory>
+			</MarkerCategory>
+			
+			<MarkerCategory MapID="1213" name="dov" DisplayName="Domain of Vabbi" iconSize="1.5">
+				<MarkerCategory name="wp" DisplayName="Waypoint directions">
+					<MarkerCategory name="tp_to_seb" DisplayName="Seborhin" iconFile="data\hppof\tptoseborhin.png" />
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels">
+					<MarkerCategory name="mother" DisplayName="Mother Tharwa" iconFile="data\hppof\DOV\hpmother.png"/>
+					<MarkerCategory name="master" DisplayName="Master Utku" iconFile="data\hppof\DOV\hpmasterutku.png"/>
+					<MarkerCategory name="hunter" DisplayName="Hunter Glorg" iconFile="data\hppof\DOV\hphunterglorg.png"/>
+					<MarkerCategory name="seborhin" DisplayName="Seborhin" iconFile="data\hppof\DOV\wpseborhin.png"/>
+					<MarkerCategory name="market" DisplayName="Market Ruins" iconFile="data\hppof\DOV\wpmarketruins.png"/>	
+					<MarkerCategory name="necro" DisplayName="Necropolis" iconFile="data\hppof\DOV\wpnecropolis.png"/>					
+					<MarkerCategory name="vehjin" DisplayName="Vehjin Palace" iconFile="data\hppof\DOV\wpvehjin.png"/>
+					<MarkerCategory name="vehtendi" DisplayName="Vehtendi Academy" iconFile="data\hppof\DOV\wpvehtendi.png"/>													
+				</MarkerCategory>
+			</MarkerCategory>
+</MarkerCategory>
+</MarkerCategory>
+
+	<POIs>
+		<POI MapID="1210" xpos="-739.657" ypos="1.13703" zpos="-98.1009" type="hptrain.pof.co.label.vetconf" />
+		<POI MapID="1210" xpos="-739.657" ypos="1.13703" zpos="-98.1009" type="hptrain.pof.co.num.1" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\1_COhp1_tpbacktowp.trl" />
+		<POI MapID="1210" xpos="-485.529" ypos="17.3146" zpos="-665.593" type="hptrain.pof.co.wp.tp_to_am" />
+		
+		<POI MapID="1210" xpos="-716.777" ypos="1.10626" zpos="-96.9256" type="hptrain.pof.co.label.forgedore" />
+		<POI MapID="1210" xpos="-716.777" ypos="1.10626" zpos="-96.9256" type="hptrain.pof.co.num.2" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\2_COhp2.trl" />
+		
+		<POI MapID="1210" xpos="-820.671" ypos="38.0855" zpos="663.834" type="hptrain.pof.co.label.wwbottle" />
+		<POI MapID="1210" xpos="-820.671" ypos="38.0855" zpos="663.834" type="hptrain.pof.co.num.3" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\3_COhp3.trl" />
+		
+		<POI MapID="1210" xpos="-232.847" ypos="34.0846" zpos="387.54" type="hptrain.pof.co.label.unearthruins" />
+		<POI MapID="1210" xpos="-232.847" ypos="34.0846" zpos="387.54" type="hptrain.pof.co.num.4" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\4_COhp4.trl" />
+		
+		<POI MapID="1210" xpos="257.97" ypos="57.0067" zpos="555.579" type="hptrain.pof.co.label.tofwp" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\5_COwp1.trl"/>
+		
+		<POI MapID="1210" xpos="706.671" ypos="122.765" zpos="214.1" type="hptrain.pof.co.num.5" />
+		<POI MapID="1210" xpos="706.671" ypos="122.765" zpos="214.1" type="hptrain.pof.co.label.brandpyr" />
+		<POI MapID="1210" xpos="994.904" ypos="129.926" zpos="335.232" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1210" xpos="1049.92" ypos="172.587" zpos="329.026" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1210" xpos="1258.37" ypos="286.032" zpos="460.898" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1210" xpos="1270.43" ypos="189.327" zpos="504.86" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1210" xpos="1261.52" ypos="285.807" zpos="462.98" type="hptrain.pof.co.wp.tp_to_tok" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\CO_nextmap.trl"/>
+		<POI MapID="1210" xpos="704.231" ypos="122.746" zpos="218.818" type="hptrain.pof.co.num.6"/>
+		<POI MapID="1210" xpos="704.231" ypos="122.746" zpos="218.818" type="hptrain.pof.co.label.nextmapDH" /> 
+		<!-- Make POI with text "map done, go to temple of kormir and north" -->
+		<Trail type="hptrain.pof.co" trailData="data\hppof\6_COhp5.trl" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\7_pathupyramid.trl" />
+		<POI MapID="1210" xpos="705.835" ypos="122.839" zpos="196.282" type="hptrain.pof.co.num.7" />
+		<POI MapID="1210" xpos="705.835" ypos="122.839" zpos="196.282" type="hptrain.pof.co.label.destgorge" />
+		<Trail type="hptrain.pof.co" trailData="data\hppof\COlastwp.trl"/>
+		
+		<!-- Crystal Oasis Done, continue to Desert Highlands -->
+		
+		<POI MapID="1211" xpos="529.661" ypos="161.543" zpos="-681.179" type="hptrain.pof.dh.label.glintslair" />
+		<POI MapID="1211" xpos="529.661" ypos="161.543" zpos="-681.179" type="hptrain.pof.co.num.1" />
+		<POI MapID="1211" xpos="764.201" ypos="145.372" zpos="-513.946" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="789.304" ypos="153.619" zpos="-507.887" type="hptrain.pof.co.num.portal" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\DH1.trl" />
+		
+		<POI MapID="1211" xpos="1121.81" ypos="179.551" zpos="-532.303" type="hptrain.pof.co.num.2" />
+		<POI MapID="1211" xpos="1121.81" ypos="179.551" zpos="-532.303" type="hptrain.pof.dh.label.brandcrystal" />
+		<POI MapID="1211" xpos="1180.63" ypos="192.641" zpos="-285.02" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="1160.06" ypos="228.34" zpos="-241.871" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="1124.4" ypos="252.912" zpos="37.8656" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="1137.74" ypos="268.364" zpos="42.7176" type="hptrain.pof.co.num.portal" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\DH2.trl" />
+		
+		<POI MapID="1211" xpos="1147.23" ypos="268.378" zpos="44.79" type="hptrain.pof.co.num.3" />
+		<POI MapID="1211" xpos="1147.23" ypos="268.378" zpos="44.79" type="hptrain.pof.dh.label.eternalfire" />
+		<POI MapID="1211" xpos="1147.16" ypos="268.37" zpos="48.0966" type="hptrain.pof.dh.label.altrouteDH" />
+		<POI MapID="1211" xpos="1338.04" ypos="255.958" zpos="231.045" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="1256.85" ypos="197.69" zpos="209.029" type="hptrain.pof.co.num.portal" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh3.trl" /> <!-- requires bunny and raptor 3 -->
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh3alt1.trl" /> <!-- requires Griffon -->
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh3alt2.trl" /> <!-- reqires Jackal & bunny -->
+		
+		<POI MapID="1211" xpos="1330.31" ypos="254.467" zpos="232.972" type="hptrain.pof.co.num.4" />
+		<POI MapID="1211" xpos="1330.31" ypos="254.467" zpos="232.972" type="hptrain.pof.dh.label.glowingcf" />
+		<POI MapID="1211" xpos="946.805" ypos="192.466" zpos="408.568" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="975.763" ypos="193.336" zpos="397.878" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="675.998" ypos="223.659" zpos="575.866" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="677.195" ypos="254.195" zpos="606.92" type="hptrain.pof.co.num.portal" />
+
+		<POI MapID="1211" xpos="639.269" ypos="251.316" zpos="668.347" type="hptrain.pof.dh.label.lomkraal" />
+		<POI MapID="1211" xpos="463.165" ypos="208.904" zpos="343.972" type="hptrain.pof.co.num.5" />
+		<POI MapID="1211" xpos="463.165" ypos="208.904" zpos="343.972" type="hptrain.pof.dh.label.vetyandra" />
+		<POI MapID="1211" xpos="377.632" ypos="237.669" zpos="228.843" type="hptrain.pof.dh.label.highjump" />
+		<POI MapID="1211" xpos="138.366" ypos="266.406" zpos="332.635" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="81.6559" ypos="266.429" zpos="353.504" type="hptrain.pof.co.num.portal" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh4.trl" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh5wp.trl" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh5hp.trl" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh6wp.trl" /> <!-- requires raptor 3 -->
+		<POI MapID="1211" xpos="-128.798" ypos="253.439" zpos="426.27" type="hptrain.pof.dh.label.deredelve" />
+		<POI MapID="1211" xpos="-476.002" ypos="269.967" zpos="457.604" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-522.661" ypos="302.917" zpos="442.45" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-627.396" ypos="334.989" zpos="438.969" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-693.691" ypos="375.313" zpos="463.752" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-930.529" ypos="368.8" zpos="423.951" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-989.75" ypos="368.8" zpos="424.131" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-1295.47" ypos="341.724" zpos="411.681" type="hptrain.pof.dh.label.vetjubua" />
+		<POI MapID="1211" xpos="-1295.47" ypos="341.724" zpos="411.681" type="hptrain.pof.co.num.6" />
+		<POI MapID="1211" xpos="-1208.65" ypos="339.714" zpos="257.67" type="hptrain.pof.dh.wp.tp_to_mak" />
+		<POI MapID="1211" xpos="-1290.18" ypos="339.151" zpos="202.051" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-1322.25" ypos="339.306" zpos="205.995" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="524.068" ypos="160.757" zpos="-670.516" type="hptrain.pof.co.num.7" />
+		<POI MapID="1211" xpos="524.068" ypos="160.757" zpos="-670.516" type="hptrain.pof.dh.label.dustybones" />
+		<POI MapID="1211" xpos="82.369" ypos="183.349" zpos="-280.954" type="hptrain.pof.dh.label.brightwater" />
+		<POI MapID="1211" xpos="-23.3544" ypos="115.054" zpos="-514.542" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="28.1925" ypos="114.176" zpos="-505.029" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1211" xpos="-276.807" ypos="14.9555" zpos="-527.278" type="hptrain.pof.dh.label.nextmaper" />
+		<POI MapID="1211" xpos="-276.807" ypos="14.9555" zpos="-527.278" type="hptrain.pof.co.wp.tp_to_tok" />
+		<POI MapID="1211" xpos="-1325.45" ypos="339.622" zpos="205.271" type="hptrain.pof.dh.label.altroute" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh7.trl" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dh8.trl" />
+		
+	
+		<!-- Elon Riverlands -->
+		<POI MapID="1228" xpos="809.955" ypos="109.98" zpos="701.594" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="782.099" ypos="166.508" zpos="731.688" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="743.019" ypos="98.4575" zpos="733.406" type="hptrain.pof.er.wp.tp_to_aug" />
+		<POI MapID="1228" xpos="647.164" ypos="86.4319" zpos="587.622" type="hptrain.pof.co.num.2" />
+		<POI MapID="1228" xpos="647.164" ypos="86.4319" zpos="587.622" type="hptrain.pof.er.label.brandrelic" />
+		<POI MapID="1228" xpos="645.235" ypos="86.4319" zpos="589.573" type="hptrain.pof.co.num.1" />
+		<POI MapID="1228" xpos="645.235" ypos="86.4319" zpos="589.573" type="hptrain.pof.er.label.forgottenshrine" />
+		<POI MapID="1228" xpos="813.835" ypos="106.664" zpos="691.887" type="hptrain.pof.er.label.forgottenshrine" />
+		<POI MapID="1228" xpos="817.782" ypos="104.29" zpos="680.674" type="hptrain.pof.er.label.brandrelic" />
+		<POI MapID="1228" xpos="1056.39" ypos="81.8389" zpos="886.33" type="hptrain.pof.er.wp.tp_to_aug" />
+		<POI MapID="1228" xpos="639.51" ypos="86.9504" zpos="572.396" type="hptrain.pof.er.label.olishar" />
+		<POI MapID="1228" xpos="197.883" ypos="33.6584" zpos="91.0203" type="hptrain.pof.co.num.3" />
+		<POI MapID="1228" xpos="197.883" ypos="33.6584" zpos="91.0203" type="hptrain.pof.er.label.grave" />
+		<POI MapID="1228" xpos="-62.8299" ypos="77.121" zpos="214.591" type="hptrain.pof.er.label.skimmer" />
+		<POI MapID="1228" xpos="-423.798" ypos="5.67203" zpos="-189.038" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="-361.945" ypos="3.40824" zpos="-294.619" type="hptrain.pof.er.wp.tp_to_skim" />
+		<POI MapID="1228" xpos="-346.775" ypos="4.70489" zpos="-267.324" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="-558.794" ypos="4.0972" zpos="-14.1306" type="hptrain.pof.er.label.lohrashi" />
+		<POI MapID="1228" xpos="-558.794" ypos="4.0972" zpos="-14.1306" type="hptrain.pof.co.num.4" />
+		<POI MapID="1228" xpos="-563.422" ypos="4.96263" zpos="-8.64903" type="hptrain.pof.co.num.5" />
+		<POI MapID="1228" xpos="-563.422" ypos="4.96263" zpos="-8.64903" type="hptrain.pof.er.label.trunt" />
+		<POI MapID="1228" xpos="-512.943" ypos="69.6885" zpos="542.262" type="hptrain.pof.co.num.6" />
+		<POI MapID="1228" xpos="-512.943" ypos="69.6885" zpos="542.262" type="hptrain.pof.er.label.freshmeat" />
+		<POI MapID="1228" xpos="-980.822" ypos="73.8668" zpos="803.06" type="hptrain.pof.er.wp.tp_to_skim" />
+		<POI MapID="1228" xpos="-578.626" ypos="4.55059" zpos="-16.0128" type="hptrain.pof.co.num.7" />
+		<POI MapID="1228" xpos="-578.626" ypos="4.55059" zpos="-16.0128" type="hptrain.pof.er.label.pellentia" />
+		<POI MapID="1228" xpos="-877.652" ypos="4.73265" zpos="-692.113" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="-929.173" ypos="24.0575" zpos="-754.055" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="-910.556" ypos="8.93651" zpos="-840.729" type="hptrain.pof.er.wp.tp_to_oli" />
+		<POI MapID="1228" xpos="208.003" ypos="34.4248" zpos="92.4902" type="hptrain.pof.co.num.8" />
+		<POI MapID="1228" xpos="208.003" ypos="34.4248" zpos="92.4902" type="hptrain.pof.er.label.fallengiant" />
+		<POI MapID="1228" xpos="464.326" ypos="11.6847" zpos="-352.485" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="503.479" ypos="74.9111" zpos="-395.239" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1228" xpos="655.829" ypos="52.5552" zpos="-454.859" type="hptrain.pof.er.label.nextmapdes" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\er1.trl" />
+		
+		<!-- Desolation -->
+		<POI MapID="1226" xpos="21.8967" ypos="1.5514" zpos="1426.52" type="hptrain.pof.co.num.1" />
+		<POI MapID="1226" xpos="21.8967" ypos="1.5514" zpos="1426.52" type="hptrain.pof.des.label.brokegg" />
+		<POI MapID="1226" xpos="-454.498" ypos="-0.441935" zpos="1249.67" type="hptrain.pof.dh.label.altroute" />
+		<POI MapID="1226" xpos="-944.652" ypos="3.14139" zpos="983.813" type="hptrain.pof.des.wp.tp_to_bs" />
+		<POI MapID="1226" xpos="25.5596" ypos="0.783308" zpos="1421.9" type="hptrain.pof.co.num.2" />
+		<POI MapID="1226" xpos="25.5596" ypos="0.783308" zpos="1421.9" type="hptrain.pof.des.label.scourge" />
+		<POI MapID="1226" xpos="-60.9902" ypos="277.108" zpos="637.412" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="-36.3174" ypos="276.628" zpos="588.698" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="252.538" ypos="276.403" zpos="315.299" type="hptrain.pof.co.num.2" />
+		<POI MapID="1226" xpos="252.538" ypos="276.403" zpos="315.299" type="hptrain.pof.des.label.awawa" />
+		<POI MapID="1226" xpos="296.819" ypos="252.831" zpos="345.914" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="338.926" ypos="297.496" zpos="381.469" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="431.986" ypos="272.727" zpos="415.262" type="hptrain.pof.des.wp.tp_to_sco" />
+		<POI MapID="1226" xpos="240.684" ypos="273.731" zpos="299.011" type="hptrain.pof.co.num.3" />
+		<POI MapID="1226" xpos="240.684" ypos="273.731" zpos="299.011" type="hptrain.pof.des.label.shanna" />
+		<POI MapID="1226" xpos="600.408" ypos="256.057" zpos="-289.639" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="621.117" ypos="313.477" zpos="-220.363" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="697.322" ypos="287.294" zpos="-194.466" type="hptrain.pof.des.label.lair" />
+		<POI MapID="1226" xpos="702.168" ypos="287.162" zpos="-196.127" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="755.115" ypos="303.795" zpos="-214.141" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="853.882" ypos="266.242" zpos="-251.724" type="hptrain.pof.des.label.jokos" />
+		<POI MapID="1226" xpos="520.352" ypos="258.582" zpos="-957.78" type="hptrain.pof.co.num.4" />
+		<POI MapID="1226" xpos="520.352" ypos="258.582" zpos="-957.78" type="hptrain.pof.des.label.bonepala" />
+		<POI MapID="1226" xpos="303.239" ypos="252.053" zpos="-1196.87" type="hptrain.pof.des.label.altroutespringerless" /> <!-- springerless route -->	
+		<POI MapID="1226" xpos="272.364" ypos="294.746" zpos="-1284.43" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="287.723" ypos="270.027" zpos="-1281.05" type="hptrain.pof.co.num.portal" />
+		<POI MapID="1226" xpos="271.784" ypos="294.745" zpos="-1288.08" type="hptrain.pof.des.wp.tp_to_sco" />
+		<POI MapID="1226" xpos="237.346" ypos="275.226" zpos="305.934" type="hptrain.pof.co.num.5" />
+		<POI MapID="1226" xpos="237.346" ypos="275.226" zpos="305.934" type="hptrain.pof.des.label.darklands" /> 
+		<POI MapID="1226" xpos="-513.468" ypos="276.852" zpos="130.19" type="hptrain.pof.co.num.5" />
+		<POI MapID="1226" xpos="-513.468" ypos="276.852" zpos="130.19" type="hptrain.pof.des.label.mouth" />
+		<POI MapID="1226" xpos="-610.718" ypos="183.566" zpos="-467.103" type="hptrain.pof.des.label.jackal" />
+		<POI MapID="1226" xpos="-563.434" ypos="237.84" zpos="-1213.96" type="hptrain.pof.co.num.6" />
+		<POI MapID="1226" xpos="-563.434" ypos="237.84" zpos="-1213.96" type="hptrain.pof.des.label.gnarled" />
+		<POI MapID="1226" xpos="-756.148" ypos="240.599" zpos="-1103.56" type="hptrain.pof.des.wp.tp_to_joko" />
+		<POI MapID="1226" xpos="-756.148" ypos="240.599" zpos="-1103.56" type="hptrain.pof.des.label.nextmapdov" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\des.trl" />
+
+		<POI MapID="1226" xpos="272.785" ypos="294.745" zpos="-1293.38" type="hptrain.pof.des.label.altrouteskimmer" /> <!-- follow if skimmer -->
+		<POI MapID="1226" xpos="272.785" ypos="294.745" zpos="-1293.38" type="hptrain.pof.des.label.jackal" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\desskimmeroute.trl" texture="data\hppof\alttrail.png" /> <!-- trail from jokos domain to sand jackal run wp -->
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\des_trailtognarled.trl" texture="data\hppof\alttrail.png" /> <!-- trail to gnarled tree HP -->
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\des_trailtoglide.trl" texture="data\hppof\alttrail.png" /> <!-- trail to glide point -->
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\des_glidetrail.trl" texture="data\hppof\alttrail.png" /> <!-- gliding -->
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\des_skimmerend.trl" texture="data\hppof\alttrail.png" />
+		<POI MapID="1226" xpos="-560.689" ypos="238.428" zpos="-1217.81" type="hptrain.pof.co.num.5" />
+		<POI MapID="1226" xpos="-560.689" ypos="238.428" zpos="-1217.81" type="hptrain.pof.des.label.gnarled" />
+		<POI MapID="1226" xpos="-760.878" ypos="240.768" zpos="-1106.61" type="hptrain.pof.des.label.mouth" />
+		<POI MapID="1226" xpos="-760.878" ypos="240.768" zpos="-1106.61" type="hptrain.pof.co.num.6" />
+		<POI MapID="1226" xpos="-589.32" ypos="182.9" zpos="-451.262" type="hptrain.pof.des.label.darklands" />
+		<POI MapID="1226" xpos="-509.352" ypos="275.499" zpos="143.949" type="hptrain.pof.des.wp.tp_to_joko" />
+		<POI MapID="1226" xpos="-509.352" ypos="275.499" zpos="143.949" type="hptrain.pof.des.label.nextmapdov" />
+		
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\des_glideroute.trl" texture="data\hppof\alttrail.png" />
+		
+		<!-- Domain of Vabbi -->
+		<POI MapID="1248" xpos="-1370.2" ypos="70.9971" zpos="767.2" type="hptrain.pof.dov.label.vehjin" />
+		<POI MapID="1248" xpos="-1066.57" ypos="141.344" zpos="428.935" type="hptrain.pof.dov.label.seborhin" />
+		<POI MapID="1248" xpos="-310.071" ypos="107.771" zpos="322.47" type="hptrain.pof.co.num.1" />
+		<POI MapID="1248" xpos="-310.071" ypos="107.771" zpos="322.47" type="hptrain.pof.dov.label.market" />
+		<POI MapID="1248" xpos="813.95" ypos="142.584" zpos="55.0713" type="hptrain.pof.co.num.1" />
+		<POI MapID="1248" xpos="813.95" ypos="142.584" zpos="55.0713" type="hptrain.pof.dov.label.hunter" />
+		<POI MapID="1248" xpos="1146.52" ypos="79.696" zpos="312.146" type="hptrain.pof.dov.wp.tp_to_seb" />
+		<POI MapID="1248" xpos="-313.859" ypos="110.121" zpos="321.553" type="hptrain.pof.co.num.2" />
+		<POI MapID="1248" xpos="-313.859" ypos="110.121" zpos="321.553" type="hptrain.pof.dov.label.master" />
+		<POI MapID="1248" xpos="121.711" ypos="23.4653" zpos="-287.816" type="hptrain.pof.dov.label.vehtendi" />
+		<POI MapID="1248" xpos="221.783" ypos="78.7063" zpos="-462.772" type="hptrain.pof.dov.label.necro" />
+		<POI MapID="1248" xpos="-574.938" ypos="115.212" zpos="-435.191" type="hptrain.pof.co.num.3" />
+		<POI MapID="1248" xpos="-574.938" ypos="115.212" zpos="-435.191" type="hptrain.pof.dov.label.mother" />
+		<Trail type="hptrain.pof.dh" trailData="data\hppof\dov.trl" />
+		
+	</POIs>
+</OverlayData>
