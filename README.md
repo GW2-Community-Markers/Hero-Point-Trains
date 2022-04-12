@@ -10,6 +10,7 @@
 * Czokalapik - Most of the used Icons and HOT Specific
 * Spookycat - POF Specific
 * Tekkit - Other used icons
+* Tehs Trails - Other used Icons (Mounts in particular)
 
 # Community Cont. & Merger of HP Trains
 
@@ -53,18 +54,22 @@ To Add
 | ---: | ----------- |
 | ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/portal.png) | Every spot where you have to use Bouncing Mushrooms, Ley Line Gliding, Updraft Use, or Springer is marked with spots where you should use **Portal** to help other members of your group. |
 | ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/num_01.png) | Every HP trail starts with corresponding number (at Waypoint or after previous HP), same icon appears on every fork in the road. Labels under the number will tell where you are going, you will see Hero Challenge name or Waypoint name here, "ALT ROUTE" on the label means this is alternative route to this Hero Challenge. You'll also see several icons on the label: |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_hp.png) | This route leads to soloable Hero Point\, same icon with "\+" means HP that will require 2 or more players |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_wp.png) | This trail leads to Waypoint |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_exaltedmarkings.png) | You will need Exalted Markings Mastery on the way \(or something to skip them\)\, needed only for Balthazar HP\, Jellyfish and Chak Hatchery HPs |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_itzelpoison.png) | Itzel Poison mastery is reqiured here \(only Chak Hatchery HP\) |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_leyline.png) | Ley\-Line mastery is required to get to this HP \(**Springer** or even **Advanced Gliding** be used instead, only Burnisher's Quarry vanilla path) |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_mushroom.png) | Bouncing Mushroom mastery is required here\, usually **Springer** can be used instead |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_updraft.png) | Updraft mastery is required to follow this route\, usually **Springer** can be used instead |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_lean.png) | Lean Techniques mastery required \(**Springer** can be used instead) |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_labels_springer.png) | Springer is required to follow this route |  |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_trail.png) | **Yellow trail** leads directly to Hero Challenge. **Blue trail** leads to next Waypont (Not Complete on all maps yet), you will see yellow continuation of the trial after getting to WP. |
-| ![](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/raw/master/POIs/Data/CzokalapiksGuides/git-instructions/cz_git_signs_tp_to.png) | This mark will tell you where to teleport after completing Hero Challenge (if the trail is not leadeing you to next HP). You will only be pointed to starting Waypoint or the ones this route led you already. |
-
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_hp.png) | This route leads to soloable Hero Point\, same icon with "\+" means HP that will require 2 or more players |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_wp.png) | This trail leads to Waypoint |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_exaltedmarkings.png) | You will need Exalted Markings Mastery on the way \(or something to skip them\)\, needed only for Balthazar HP\, Jellyfish and Chak Hatchery HPs |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_itzelpoison.png) | Itzel Poison mastery is reqiured here \(only Chak Hatchery HP\) |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_leyline.png) | Ley\-Line mastery is required to get to this HP \(**Springer** or even **Advanced Gliding** be used instead, only Burnisher's Quarry vanilla path) |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_mushroom.png) | Bouncing Mushroom mastery is required here\, usually **Springer** can be used instead |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_updraft.png) | Updraft mastery is required to follow this route\, usually **Springer** can be used instead |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_lean.png) | Lean Techniques mastery required \(**Springer** can be used instead) |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/labels_springer.png) | Springer is required to follow this route |  |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/trail_both.png) | **Yellow trail** leads directly to Hero Challenge. **Blue trail** leads to next Waypont (Not Complete on all maps yet), you will see yellow continuation of the trial after getting to WP. |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/signs_tp_to_abe.png) | This mark will tell you where to teleport after completing Hero Challenge (if the trail is not leadeing you to next HP). You will only be pointed to starting Waypoint or the ones this route led you already. |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/griffon.png) | Not used yet but will indicate when to use a griffon |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/jackal.png) | Not used yet but will indicate when to use a jackal |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/raptor.png) | Not used yet but will indicate when to use a raptor |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/skimmer.png) | Not used yet but will indicate when to use a skimmer |
+| ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/springer.png) | Not used yet but will indicate when to use a springer |
 ### Changelog
 
 * 12.04.2022: Initial commit of merges and adjustments - Alazare619 IGN alazare.5463
