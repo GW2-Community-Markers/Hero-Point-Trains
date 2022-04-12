@@ -11,7 +11,7 @@
 * Spookycat - POF Specific
 * Tekkit - Other used icons
 
-# Community Coninuation and Merger of Hero Point Trains
+# Community Cont. & Merger of HP Trains
 
 ![image](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/hp_run_screen.png)
 Like many of you, I'm using GW2 Taco, it's amazing overlay addon for GW2, markers were intended to be created by players just like me and you, so here is my input.
