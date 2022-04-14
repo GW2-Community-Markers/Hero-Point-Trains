@@ -74,11 +74,10 @@ To Add
 | ![](https://github.com/GW2-Community-Markers/Hero-Point-Trains/raw/master/Data/generic/springer.png) | Not used yet but will indicate when to use a springer |
 ### Changelog
 
+* 14.04.2022: Added in EoD and started uniforming the generic folder across all xml's
 * 12.04.2022: Initial commit of merges and adjustments - Alazare619 IGN alazare.5463
 * 22.05.2018: Connected Verdant Brink's Golem HP with Ancient Tree HP
 * 21.05.2018: Updated Vampire HP trail
 
 ### ToDo
-
-* EoD
 * Further trail optimizations and uniformization
