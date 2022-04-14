@@ -1,0 +1,243 @@
+<OverlayData>
+	<MarkerCategory name="hptrain" DisplayName="HP Train">
+		<MarkerCategory name="eod" DisplayName="End of Dragons" heightOffset="2.5" fadeNear="3000" fadeFar="3100" iconFile="data\generic\numbers\x.png" animSpeed="0.1" texture="data\generic\trails\main.png">
+			<MarkerCategory MapID="1442" name="seitung" DisplayName="Seitung Province">
+				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
+
+				<MarkerCategory name="numbers" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
+					<MarkerCategory name="2" iconFile="data\generic\numbers\2.png"/>
+					<MarkerCategory name="3" iconFile="data\generic\numbers\3.png"/>
+					<MarkerCategory name="4" iconFile="data\generic\numbers\4.png"/>
+					<MarkerCategory name="5" iconFile="data\generic\numbers\5.png"/>
+					<MarkerCategory name="6" iconFile="data\generic\numbers\6.png"/>
+					<MarkerCategory name="7" iconFile="data\generic\numbers\7.png"/>
+					<MarkerCategory name="8" iconFile="data\generic\numbers\8.png"/>
+					<MarkerCategory name="9" iconFile="data\generic\numbers\9.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="wp" DisplayName="Waypoints" iconSize="1.5">
+					<MarkerCategory name="village" DisplayName="Village" iconFile="Data\hpeod\Markers\Waypoints\village.png"/>
+					<MarkerCategory name="haiju" DisplayName="Haiju Docks" iconFile="Data\hpeod\Markers\Waypoints\haiju.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="map" DisplayName="Maps" iconSize="1.5">
+					<MarkerCategory name="kaineng" DisplayName="New Kaineng" iconFile="Data\hpeod\Markers\Maps\kaineng.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="hps" DisplayName="Hero Points">
+					<MarkerCategory name="1" DisplayName="Village Overlook" iconFile="Data\hpeod\Markers\HPs\Seitung\1.png"/>
+					<MarkerCategory name="2" DisplayName="Jade Bulwark" iconFile="Data\hpeod\Markers\HPs\Seitung\2.png"/>
+					<MarkerCategory name="3" DisplayName="Cliffside Memorial Bell" iconFile="Data\hpeod\Markers\HPs\Seitung\3.png"/>
+					<MarkerCategory name="4" DisplayName="Village Overlook (2)" iconFile="Data\hpeod\Markers\HPs\Seitung\4.png"/>
+					<MarkerCategory name="5" DisplayName="Bloom of Seitung" iconFile="Data\hpeod\Markers\HPs\Seitung\5.png"/>
+					<MarkerCategory name="6" DisplayName="Dog Statue" iconFile="Data\hpeod\Markers\HPs\Seitung\6.png"/>
+					<MarkerCategory name="7" DisplayName="Haiju Hatchery" iconFile="Data\hpeod\Markers\HPs\Seitung\7.png"/>
+					<MarkerCategory name="8" DisplayName="Old Bell Shrine" iconFile="Data\hpeod\Markers\HPs\Seitung\8.png"/>
+					<MarkerCategory name="9" DisplayName="Source of the Springs" iconFile="Data\hpeod\Markers\HPs\Seitung\9.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+			<MarkerCategory name="kaineng" DisplayName="New Kaineng City">
+				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
+				
+				<MarkerCategory name="numbers" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
+					<MarkerCategory name="2" iconFile="data\generic\numbers\2.png"/>
+					<MarkerCategory name="3" iconFile="data\generic\numbers\3.png"/>
+					<MarkerCategory name="4" iconFile="data\generic\numbers\4.png"/>
+					<MarkerCategory name="5" iconFile="data\generic\numbers\5.png"/>
+					<MarkerCategory name="6" iconFile="data\generic\numbers\6.png"/>
+					<MarkerCategory name="7" iconFile="data\generic\numbers\7.png"/>
+					<MarkerCategory name="8" iconFile="data\generic\numbers\8.png"/>
+					<MarkerCategory name="9" iconFile="data\generic\numbers\9.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="wp" DisplayName="Waypoints" iconSize="1.5">
+					<MarkerCategory name="ministry" DisplayName="Ministry Ward" iconFile="Data\hpeod\Markers\Waypoints\ministry.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="map" DisplayName="Maps" iconSize="1.5">
+					<MarkerCategory name="arborstone" DisplayName="Arborstone" iconFile="Data\hpeod\Markers\Maps\arborstone.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="hps" DisplayName="Hero Points">
+					<MarkerCategory name="1" DisplayName="Engineer Hu" iconFile="Data\hpeod\Markers\HPs\Kaineng\1.png"/>
+					<MarkerCategory name="2" DisplayName="Jade Monument" iconFile="Data\hpeod\Markers\HPs\Kaineng\2.png"/>
+					<MarkerCategory name="3" DisplayName="Ministry of Archives" iconFile="Data\hpeod\Markers\HPs\Kaineng\3.png"/>
+					<MarkerCategory name="4" DisplayName="Sotdae Landing Lookout" iconFile="Data\hpeod\Markers\HPs\Kaineng\4.png"/>
+					<MarkerCategory name="5" DisplayName="Garden Scaffolding" iconFile="Data\hpeod\Markers\HPs\Kaineng\5.png"/>
+					<MarkerCategory name="6" DisplayName="Lab District Terrace" iconFile="Data\hpeod\Markers\HPs\Kaineng\6.png"/>
+					<MarkerCategory name="7" DisplayName="Old Kaineng Ruins" iconFile="Data\hpeod\Markers\HPs\Kaineng\7.png"/>
+					<MarkerCategory name="8" DisplayName="Purist Necromancer" iconFile="Data\hpeod\Markers\HPs\Kaineng\8.png"/>
+					<MarkerCategory name="9" DisplayName="New Kaineng City Limits" iconFile="Data\hpeod\Markers\HPs\Kaineng\9.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+			<MarkerCategory name="echovald" DisplayName="The Echovald Wilds">
+				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
+				
+				<MarkerCategory name="numbers" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
+					<MarkerCategory name="2" iconFile="data\generic\numbers\2.png"/>
+					<MarkerCategory name="3" iconFile="data\generic\numbers\3.png"/>
+					<MarkerCategory name="4" iconFile="data\generic\numbers\4.png"/>
+					<MarkerCategory name="5" iconFile="data\generic\numbers\5.png"/>
+					<MarkerCategory name="6" iconFile="data\generic\numbers\6.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="wp" DisplayName="Waypoints" iconSize="1.5">
+					<MarkerCategory name="junkyard" DisplayName="Junkyard" iconFile="Data\hpeod\Markers\Waypoints\junkyard.png"/>
+					<MarkerCategory name="mori" DisplayName="Mori Village" iconFile="Data\hpeod\Markers\Waypoints\mori.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="map" DisplayName="Maps" iconSize="1.5">
+					<MarkerCategory name="echovald" DisplayName="Echovald" iconFile="Data\hpeod\Markers\Maps\echovald.png"/>
+					<MarkerCategory name="dragons_end" DisplayName="Dragon's End" iconFile="Data\hpeod\Markers\Maps\dragons_end.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="hps" DisplayName="Hero Points">
+					<MarkerCategory name="0" DisplayName="Tsuko Talonedge" iconFile="Data\hpeod\Markers\HPs\Echovald\0.png"/>
+					<MarkerCategory name="1" DisplayName="House zu Heltzer" iconFile="Data\hpeod\Markers\HPs\Echovald\1.png"/>
+					<MarkerCategory name="2" DisplayName="Speaker Headquarters" iconFile="Data\hpeod\Markers\HPs\Echovald\2.png"/>
+					<MarkerCategory name="3" DisplayName="Gravestone of Lord Archek Brauer" iconFile="Data\hpeod\Markers\HPs\Echovald\3.png"/>
+					<MarkerCategory name="4" DisplayName="Xunlai Jade Junkyard Overlook" iconFile="Data\hpeod\Markers\HPs\Echovald\4.png"/>
+					<MarkerCategory name="5" DisplayName="Village Overlook" iconFile="Data\hpeod\Markers\HPs\Echovald\5.png"/>
+					<MarkerCategory name="6" DisplayName="Submerged Cathedral" iconFile="Data\hpeod\Markers\HPs\Echovald\6.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+
+			<MarkerCategory name="dragons_end" DisplayName="Dragon's End">
+				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
+				
+				<MarkerCategory name="numbers" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
+					<MarkerCategory name="2" iconFile="data\generic\numbers\2.png"/>
+					<MarkerCategory name="3" iconFile="data\generic\numbers\3.png"/>
+					<MarkerCategory name="4" iconFile="data\generic\numbers\4.png"/>
+					<MarkerCategory name="5" iconFile="data\generic\numbers\5.png"/>
+					<MarkerCategory name="6" iconFile="data\generic\numbers\6.png"/>
+					<MarkerCategory name="alt_route" DisplayName="Alternative Route" iconFile="data\generic\numbers\alt_route.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="wp" DisplayName="Waypoints" iconSize="1.5">
+					<MarkerCategory name="quarry" DisplayName="Jade Quarry" iconFile="Data\hpeod\Markers\Waypoints\quarry.png"/>
+					<MarkerCategory name="harvest" DisplayName="Harvest Complex" iconFile="Data\hpeod\Markers\Waypoints\harvest.png"/>
+				</MarkerCategory>
+
+				<MarkerCategory name="hps" DisplayName="Hero Points">
+					<MarkerCategory name="1" DisplayName="Quarry Overlook" iconFile="Data\hpeod\Markers\HPs\End\1.png"/>
+					<MarkerCategory name="2" DisplayName="Roaring Waterfall" iconFile="Data\hpeod\Markers\HPs\End\2.png"/>
+					<MarkerCategory name="3" DisplayName="Quarry Platform" iconFile="Data\hpeod\Markers\HPs\End\3.png"/>
+					<MarkerCategory name="4" DisplayName="Harvest Complex Pavillion" iconFile="Data\hpeod\Markers\HPs\End\4.png"/>
+					<MarkerCategory name="5" DisplayName="Harvest Temple Main Entrance" iconFile="Data\hpeod\Markers\HPs\End\5.png"/>
+					<MarkerCategory name="6" DisplayName="Hatchery Play Pond" iconFile="Data\hpeod\Markers\HPs\End\6.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	
+	<POIs>
+		<POI MapID="1442" xpos="-86.2962" ypos="15" zpos="-184.054" type="hptrain.eod.seitung.hp_run" GUID="QpdLDzXp6Ea5eXGFjm33cw=="/>
+		<POI MapID="1442" xpos="-86.2962" ypos="12.8947" zpos="-184.054" type="hptrain.eod.seitung.numbers.1" GUID="gRkMzDrzPES0yfSptD9VrA=="/>
+		<POI MapID="1442" xpos="-86.2962" ypos="11.8947" zpos="-184.054" type="hptrain.eod.seitung.hps.1" GUID="7TcNZogIoEu9WuL7gUO7dA=="/>
+		<POI MapID="1442" xpos="-637.915" ypos="165.832" zpos="-70.5645" type="hptrain.eod.seitung.numbers.2" GUID="U59+spxMI0qHPSjmkwOx3Q=="/>
+		<POI MapID="1442" xpos="-637.915" ypos="164.832" zpos="-70.5645" type="hptrain.eod.seitung.hps.2" GUID="E+EBvrY3oU+VAF5iqT+GaQ=="/>
+		<POI MapID="1442" xpos="-515.348" ypos="45.9553" zpos="-370.426" type="hptrain.eod.seitung.wp.village" GUID="hemP4flvs0OvA4bkkGBBFw=="/>
+		<POI MapID="1442" xpos="-84.5284" ypos="13.3273" zpos="-183.364" type="hptrain.eod.seitung.numbers.3" GUID="McMAWSx+f0enfFQ8VTp6pw=="/>
+		<POI MapID="1442" xpos="-84.5284" ypos="12.3273" zpos="-183.364" type="hptrain.eod.seitung.hps.3" GUID="1hKN8uzY00KojSVJzpGOuQ=="/>
+		<POI MapID="1442" xpos="503.066" ypos="113.478" zpos="-184.413" type="hptrain.eod.seitung.numbers.4" GUID="mhru/yXFiUW0Nsqf8HzIow=="/>
+		<POI MapID="1442" xpos="503.066" ypos="112.478" zpos="-184.413" type="hptrain.eod.seitung.hps.4" GUID="AvJB5FVbn0GBCcSzSxnAfA=="/>
+		<POI MapID="1442" xpos="980.856" ypos="100.829" zpos="-363.887" type="hptrain.eod.seitung.wp.village" GUID="dNOntp+bDkawrkUZR5dawg=="/>
+		<POI MapID="1442" xpos="-87.0033" ypos="13.8169" zpos="-190.903" type="hptrain.eod.seitung.numbers.5" GUID="gjrLs0wBqkO34N9cYz+D9g=="/>
+		<POI MapID="1442" xpos="-87.0033" ypos="12.8169" zpos="-190.903" type="hptrain.eod.seitung.hps.5" GUID="3QyKOMQ4oEKQhlX+2/2yrg=="/>
+		<POI MapID="1442" xpos="-312.498" ypos="2.92795" zpos="-215.513" type="hptrain.eod.seitung.numbers.6" GUID="yJUpZUMMAk64b9gF6WYkTA=="/>
+		<POI MapID="1442" xpos="-312.498" ypos="1.92795" zpos="-215.513" type="hptrain.eod.seitung.hps.6" GUID="qtLiptHrKkq9GIr3Y5h+WA=="/>
+		<POI MapID="1442" xpos="-424.53" ypos="1.37639" zpos="223.474" type="hptrain.eod.seitung.numbers.7" GUID="RZPUzbhUm028l15wFlIzwg=="/>
+		<POI MapID="1442" xpos="-424.53" ypos="0.37639" zpos="223.474" type="hptrain.eod.seitung.hps.7" GUID="QXisuJPgtkiDIw8EjkTfNw=="/>
+		<POI MapID="1442" xpos="-165.061" ypos="-26.0569" zpos="723.347" type="hptrain.eod.seitung.numbers.8" GUID="70BcC/pYOkO+XliQUcYOZA=="/>
+		<POI MapID="1442" xpos="-165.061" ypos="-27.0569" zpos="723.347" type="hptrain.eod.seitung.hps.8" GUID="9dIsfvf5i0Sltrraf50leg=="/>
+		<POI MapID="1442" xpos="391.516" ypos="36.0741" zpos="476.244" type="hptrain.eod.seitung.numbers.9" GUID="DEVtdSKiy0Cio2nhgCVvgA=="/>
+		<POI MapID="1442" xpos="391.516" ypos="35.0741" zpos="476.244" type="hptrain.eod.seitung.hps.9" GUID="REFOHl0ojUKVcXuSlJWXvQ=="/>
+		<POI MapID="1442" xpos="-80.9178" ypos="217.854" zpos="86.3981" type="hptrain.eod.seitung.wp.haiju" GUID="TqBPQ47iCUatcWNB0Ch3rw=="/>
+		<POI MapID="1442" xpos="345.938" ypos="2.89481" zpos="691.427" type="hptrain.eod.seitung.map.kaineng" GUID="MhKXP4dlcUq+OBuKjxe7eA=="/>
+		<Trail type="hptrain.eod.seitung" trailData="Data\hpeod\seitung.trl" />
+
+		<POI MapID="1438" xpos="-883.605" ypos="5" zpos="-124.67" type="hptrain.eod.kaineng.hp_run" GUID="GeSiwcZiPUqjYuz3R93qWg=="/>
+		<POI MapID="1438" xpos="-883.605" ypos="2.86044" zpos="-124.67" type="hptrain.eod.kaineng.numbers.1" GUID="ewV3VTYsR0G1SiteFC4txw=="/>
+		<POI MapID="1438" xpos="-883.605" ypos="1.86044" zpos="-124.67" type="hptrain.eod.kaineng.hps.1" GUID="Q4udim6ji06gzlDcL+NrAw=="/>
+		<POI MapID="1438" xpos="-535.745" ypos="120.158" zpos="178.186" type="hptrain.eod.kaineng.numbers.2" GUID="dH2T62Ua2EadrP6SpFtfDg=="/>
+		<POI MapID="1438" xpos="-535.745" ypos="119.158" zpos="178.186" type="hptrain.eod.kaineng.hps.2" GUID="Orkhd/lD4UqbMOXwmtIopA=="/>
+		<POI MapID="1438" xpos="-558.939" ypos="157.885" zpos="-6.59713" type="hptrain.eod.kaineng.numbers.3" GUID="NynUaP5mMUK9xiqeSv6y+Q=="/>
+		<POI MapID="1438" xpos="-558.939" ypos="156.885" zpos="-6.59713" type="hptrain.eod.kaineng.hps.3" GUID="opl9iULrJkWoGpuA83LtGg=="/>
+		<POI MapID="1438" xpos="-483.928" ypos="270.216" zpos="-463.14" type="hptrain.eod.kaineng.numbers.4" GUID="Au/KF6YG5UmSbkZIXrI4+Q=="/>
+		<POI MapID="1438" xpos="-483.928" ypos="269.216" zpos="-463.14" type="hptrain.eod.kaineng.hps.4" GUID="sycDascIlkyPrUut2TLIkw=="/>
+		<POI MapID="1438" xpos="-853.676" ypos="139.089" zpos="-748.627" type="hptrain.eod.kaineng.wp.ministry" GUID="GyxU+srchECjvWxZjbf2Yg=="/>
+		<POI MapID="1438" xpos="-143.426" ypos="2.62128" zpos="-34.9677" type="hptrain.eod.kaineng.numbers.5" GUID="8OqTVJRqLUehI6jUKHNXIA=="/>
+		<POI MapID="1438" xpos="-143.426" ypos="1.62128" zpos="-34.9677" type="hptrain.eod.kaineng.hps.5" GUID="H36D2chRJEm1R9Sh2hhL5A=="/>
+		<POI MapID="1438" xpos="228.008" ypos="2.62129" zpos="329.459" type="hptrain.eod.kaineng.numbers.6" GUID="t1uTIsjbq0ahTH6HP47poQ=="/>
+		<POI MapID="1438" xpos="228.008" ypos="1.62129" zpos="329.459" type="hptrain.eod.kaineng.hps.6" GUID="ibCDZ2ePikOgXq7bP4dMnw=="/>
+		<POI MapID="1438" xpos="456.239" ypos="109.507" zpos="374.732" type="hptrain.eod.kaineng.numbers.7" GUID="cW9YLORRo0mfDxZ5kQpTfA=="/>
+		<POI MapID="1438" xpos="456.239" ypos="108.507" zpos="374.732" type="hptrain.eod.kaineng.hps.7" GUID="K0PzqZZPoUOuOsgcyQ4sPQ=="/>
+		<POI MapID="1438" xpos="882.783" ypos="218.223" zpos="489.304" type="hptrain.eod.kaineng.numbers.8" GUID="cCU9AeHtukGaTaPnvtusPQ=="/>
+		<POI MapID="1438" xpos="882.783" ypos="217.223" zpos="489.304" type="hptrain.eod.kaineng.hps.8" GUID="VYrPzn3YaUis65iXxd/EGA=="/>
+		<POI MapID="1438" xpos="1032.24" ypos="12.052" zpos="-5.02976" type="hptrain.eod.kaineng.numbers.9" GUID="+v/wTRsvPUGys8FLlQc4AA=="/>
+		<POI MapID="1438" xpos="1032.24" ypos="11.052" zpos="-5.02976" type="hptrain.eod.kaineng.hps.9" GUID="rJ8qZYgFyE+5apIVadDNJg=="/>
+		<POI MapID="1438" xpos="831.09" ypos="55.2866" zpos="-612.651" type="hptrain.eod.kaineng.map.arborstone" GUID="r93Zad3NJEm8jQBXWGBrjg=="/>
+		<Trail type="hptrain.eod.kaineng" trailData="Data\hpeod\kaineng.trl" />
+
+		<POI MapID="1428" xpos="-1124.88" ypos="8.3" zpos="741.003" type="hptrain.eod.echovald.hp_run" GUID="DSAOdYNAikeIzHFSdMXdNg=="/>
+		<POI MapID="1428" xpos="-1124.88" ypos="7.06802" zpos="741.003" type="hptrain.eod.echovald.numbers.1" GUID="DKGNgMF3s0C3KNG9OyjFEA=="/>
+		<POI MapID="1428" xpos="-1124.88" ypos="6.06802" zpos="741.003" type="hptrain.eod.echovald.hps.0" GUID="B9yTqb/YZUqE2n8t2gpy5w=="/>
+		<POI MapID="1428" xpos="-761.67" ypos="9.8215" zpos="623.824" type="hptrain.eod.echovald.map.echovald" GUID="WHt9brfxJE+9Gph0HsCaNQ=="/>
+		<POI MapID="1452" xpos="-651.327" ypos="164.8" zpos="356.011" type="hptrain.eod.echovald.hp_run" GUID="cik2WkcobECKLOugCTPEpQ=="/>
+		<POI MapID="1452" xpos="-651.327" ypos="162.661" zpos="356.011" type="hptrain.eod.echovald.numbers.1" GUID="h7xoGv1AZEGYOawFzuTbAw=="/>
+		<POI MapID="1452" xpos="-651.327" ypos="161.661" zpos="356.011" type="hptrain.eod.echovald.hps.1" GUID="tJ9YaV33Z0u7X+wioY5cig=="/>
+		<POI MapID="0" xpos="0" ypos="0" zpos="0" type="hptrain.eod.echovald.numbers.2" GUID="AAAAAAAAAAAAAAAAAAAAAA=="/>
+		<POI MapID="1452" xpos="-672.169" ypos="189.883" zpos="21.2778" type="hptrain.eod.echovald.numbers.2" GUID="S7hIKfEiXUOlUzFUnb7RPQ=="/>
+		<POI MapID="1452" xpos="-672.169" ypos="188.883" zpos="21.2778" type="hptrain.eod.echovald.hps.2" GUID="8XKkGQRW8EGNxYUHm5ms+g=="/>
+		<POI MapID="1452" xpos="-876.3" ypos="222.067" zpos="-485.535" type="hptrain.eod.echovald.wp.junkyard" GUID="QJxf2KhHO0SBqJMg7ji6mg=="/>
+		<POI MapID="1452" xpos="-123.229" ypos="162.828" zpos="703.392" type="hptrain.eod.echovald.numbers.3" GUID="g7GaWhxCqUCUq4g3aq4pcg=="/>
+		<POI MapID="1452" xpos="-123.229" ypos="161.828" zpos="703.392" type="hptrain.eod.echovald.hps.3" GUID="4AFeTBc0kkeh3XwB4ka4IQ=="/>
+		<POI MapID="1452" xpos="-349.68" ypos="195.122" zpos="668.058" type="hptrain.eod.echovald.wp.junkyard" GUID="Ei8wc8zozkm188jdpLNodg=="/>
+		<POI MapID="1452" xpos="-118.378" ypos="162.828" zpos="700.475" type="hptrain.eod.echovald.numbers.4" GUID="+B3EdZNv5UWGL8HrxIA0ww=="/>
+		<POI MapID="1452" xpos="-118.378" ypos="161.828" zpos="700.475" type="hptrain.eod.echovald.hps.4" GUID="veFAJqhO1USi7GHhmFwDgw=="/>
+		<POI MapID="1452" xpos="-93.6814" ypos="205.443" zpos="-57.5746" type="hptrain.eod.echovald.numbers.5" GUID="NG1e7XMK3kGbv0+RrRBchQ=="/>
+		<POI MapID="1452" xpos="-93.6814" ypos="204.443" zpos="-57.5746" type="hptrain.eod.echovald.hps.5" GUID="3AHfR95gFEy0Zo32Ol1Zzw=="/>
+		<POI MapID="1452" xpos="1031.52" ypos="99.7374" zpos="-660.914" type="hptrain.eod.echovald.numbers.6" GUID="3mpygIzud02V4Xqse5dvTw=="/>
+		<POI MapID="1452" xpos="1031.52" ypos="98.7374" zpos="-660.914" type="hptrain.eod.echovald.hps.6" GUID="i9jzUxalt0ixOmRJaw01Lw=="/>
+		<POI MapID="1452" xpos="149.359" ypos="0.872161" zpos="-692.009" type="hptrain.eod.echovald.wp.mori" GUID="wYpyGh6tyUGU8DqokFhoJA=="/>
+		<POI MapID="1452" xpos="1043.37" ypos="6.48473" zpos="-523.297" type="hptrain.eod.echovald.map.dragons_end" GUID="lU/FfbwfgEWRBV7bO0DCew=="/>
+		<Trail type="hptrain.eod.echovald" trailData="Data\hpeod\echovald.trl" />
+		<Trail type="hptrain.eod.echovald" trailData="Data\hpeod\arborstone.trl" />
+
+		<POI MapID="1422" xpos="-579.285" ypos="233.621" zpos="1020.23" type="hptrain.eod.dragons_end.hp_run" GUID="smZL+mCczE68ZpdpAiEGyw=="/>
+		<POI MapID="1422" xpos="-193.531" ypos="178.514" zpos="842.773" type="hptrain.eod.dragons_end.hp_run" GUID="9GbBm+irzEeNHd79TbOY9A=="/>
+		<POI MapID="1422" xpos="-193.531" ypos="176.314" zpos="842.773" type="hptrain.eod.dragons_end.numbers.1" GUID="QZ58rdYJHECX/K9CkKj3hQ=="/>
+		<POI MapID="1422" xpos="-193.531" ypos="175.314" zpos="842.773" type="hptrain.eod.dragons_end.hps.1" GUID="kGNIPEvEzUiDPcf8mDVogQ=="/>
+		<POI MapID="1422" xpos="-115.853" ypos="243.721" zpos="974.198" type="hptrain.eod.dragons_end.numbers.2" GUID="1W8VUdyWUUOGEKaoUhTMuA=="/>
+		<POI MapID="1422" xpos="-115.853" ypos="242.721" zpos="974.198" type="hptrain.eod.dragons_end.hps.2" GUID="G8fNUZm5sUC2KVmjIJQDrQ=="/>
+		<POI MapID="1422" xpos="154.33" ypos="179.297" zpos="939.936" type="hptrain.eod.dragons_end.wp.quarry" GUID="JP6HyDUHWUeCiWjLMsHVdQ=="/>
+		<POI MapID="1422" xpos="-199.112" ypos="176.314" zpos="827.508" type="hptrain.eod.dragons_end.numbers.3" GUID="5j9qtXkZIUmANcb6Jh3rTQ=="/>
+		<POI MapID="1422" xpos="-199.112" ypos="175.314" zpos="827.508" type="hptrain.eod.dragons_end.hps.3" GUID="NhKoJPPXjESrxQoGffvu1w=="/>
+		<POI MapID="1422" xpos="174.247" ypos="54.4365" zpos="341.715" type="hptrain.eod.dragons_end.numbers.4" GUID="+sro6s9Mjk+khcvzSg2Bfg=="/>
+		<POI MapID="1422" xpos="174.247" ypos="53.4365" zpos="341.715" type="hptrain.eod.dragons_end.hps.4" GUID="jnD8I6C5M0qJYU+z+or9Cw=="/>
+		<POI MapID="1422" xpos="117.875" ypos="176.922" zpos="-264.59" type="hptrain.eod.dragons_end.numbers.5" GUID="lOtNBLCBw0W2ySzbgFRLsQ=="/>
+		<POI MapID="1422" xpos="117.875" ypos="175.922" zpos="-264.59" type="hptrain.eod.dragons_end.hps.5" GUID="i+lyuCuxbEar3boq4Qxqjw=="/>
+		<POI MapID="1422" xpos="-7.94458" ypos="246.255" zpos="-316.353" type="hptrain.eod.dragons_end.wp.harvest" GUID="r5VNbHtmqEmKZPpaDauW/g=="/>
+		<POI MapID="1422" xpos="23.8605" ypos="161.065" zpos="-112.99" type="hptrain.eod.dragons_end.numbers.6" GUID="CmJOrl1fRkeeJEM/QVDatA=="/>
+		<POI MapID="1422" xpos="23.8605" ypos="160.065" zpos="-112.99" type="hptrain.eod.dragons_end.hps.6" GUID="MiRaLQIOC0WWL+F0+1Hc1w=="/>
+		<POI MapID="1422" xpos="479.453" ypos="161.014" zpos="-110.158" type="hptrain.eod.dragons_end.hp_run" GUID="5JH8zAV+SEu3se3XZxLpjA=="/>
+		<Trail type="hptrain.eod.dragons_end" trailData="Data\hpeod\dragons_end.trl" />
+
+
+		<POI MapID="1422" xpos="119.138" ypos="179" zpos="-253.592" type="hptrain.eod.dragons_end.numbers.alt_route" GUID="dgpZJJEgW0W1pkbc/yJw8Q=="/>
+		<POI MapID="1422" xpos="119.138" ypos="178" zpos="-253.592" type="hptrain.eod.dragons_end.numbers.5" GUID="1mqtedR9TkSjWvm/HzqfVQ=="/>
+		<POI MapID="1422" xpos="119.138" ypos="177" zpos="-253.592" type="hptrain.eod.dragons_end.hps.5" GUID="Z2OLXg6H9kCH++jnW3Csvg=="/>
+		<POI MapID="1422" xpos="119.138" ypos="176" zpos="-253.592" type="hptrain.eod.dragons_end.wp.harvest" GUID="Vv9Mh/gPsESCu+G8TbTzbQ=="/>
+		<POI MapID="1422" xpos="15.6062" ypos="161.951" zpos="-124.87" type="hptrain.eod.dragons_end.numbers.alt_route" GUID="ZDuy6JP2zkqNB90GTLgDjQ=="/>
+		<POI MapID="1422" xpos="15.6062" ypos="160.951" zpos="-124.87" type="hptrain.eod.dragons_end.numbers.5" GUID="PjVBgslZUkWDs846yf5G2A=="/>
+		<POI MapID="1422" xpos="15.6062" ypos="159.951" zpos="-124.87" type="hptrain.eod.dragons_end.hps.5" GUID="qpKwUg5GkESlGxwT4dy5LA=="/>
+		<Trail type="hptrain.eod.dragons_end" trailData="Data\hpeod\dragons_end_alt.trl" texture="Data\generic\trails\trail_alt.png" />
+	</POIs>
+</OverlayData>
