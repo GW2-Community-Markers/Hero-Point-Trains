@@ -2,7 +2,6 @@
 	<MarkerCategory name="hptrain" DisplayName="HP Train">
 		<MarkerCategory name="eod" DisplayName="End of Dragons" heightOffset="2.5" fadeNear="3000" fadeFar="3100" iconFile="data\generic\numbers\x.png" animSpeed="0.1" texture="data\generic\trails\main.png">
 			<MarkerCategory MapID="1442" name="seitung" DisplayName="Seitung Province">
-				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
 
 				<MarkerCategory name="numbers" DisplayName="Numbers">
 					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
@@ -39,7 +38,7 @@
 			</MarkerCategory>
 
 			<MarkerCategory name="kaineng" DisplayName="New Kaineng City">
-				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
+
 				
 				<MarkerCategory name="numbers" DisplayName="Numbers">
 					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
@@ -75,7 +74,7 @@
 			</MarkerCategory>
 
 			<MarkerCategory name="echovald" DisplayName="The Echovald Wilds">
-				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
+
 				
 				<MarkerCategory name="numbers" DisplayName="Numbers">
 					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
@@ -108,7 +107,7 @@
 			</MarkerCategory>
 
 			<MarkerCategory name="dragons_end" DisplayName="Dragon's End">
-				<MarkerCategory name="hp_run" DisplayName="Red's EoD HP Run" iconFile="Data\hpeod\Markers\hp_run.png" iconSize="1.5"/>
+
 				
 				<MarkerCategory name="numbers" DisplayName="Numbers">
 					<MarkerCategory name="1" iconFile="data\generic\numbers\1.png"/>
@@ -138,7 +137,6 @@
 	</MarkerCategory>
 	
 	<POIs>
-		<POI MapID="1442" xpos="-86.2962" ypos="15" zpos="-184.054" type="hptrain.eod.seitung.hp_run" GUID="QpdLDzXp6Ea5eXGFjm33cw=="/>
 		<POI MapID="1442" xpos="-86.2962" ypos="12.8947" zpos="-184.054" type="hptrain.eod.seitung.numbers.1" GUID="gRkMzDrzPES0yfSptD9VrA=="/>
 		<POI MapID="1442" xpos="-86.2962" ypos="11.8947" zpos="-184.054" type="hptrain.eod.seitung.hps.1" GUID="7TcNZogIoEu9WuL7gUO7dA=="/>
 		<POI MapID="1442" xpos="-637.915" ypos="165.832" zpos="-70.5645" type="hptrain.eod.seitung.numbers.2" GUID="U59+spxMI0qHPSjmkwOx3Q=="/>
@@ -163,7 +161,6 @@
 		<POI MapID="1442" xpos="345.938" ypos="2.89481" zpos="691.427" type="hptrain.eod.seitung.map.kaineng" GUID="MhKXP4dlcUq+OBuKjxe7eA=="/>
 		<Trail type="hptrain.eod.seitung" trailData="Data\hpeod\seitung.trl" />
 
-		<POI MapID="1438" xpos="-883.605" ypos="5" zpos="-124.67" type="hptrain.eod.kaineng.hp_run" GUID="GeSiwcZiPUqjYuz3R93qWg=="/>
 		<POI MapID="1438" xpos="-883.605" ypos="2.86044" zpos="-124.67" type="hptrain.eod.kaineng.numbers.1" GUID="ewV3VTYsR0G1SiteFC4txw=="/>
 		<POI MapID="1438" xpos="-883.605" ypos="1.86044" zpos="-124.67" type="hptrain.eod.kaineng.hps.1" GUID="Q4udim6ji06gzlDcL+NrAw=="/>
 		<POI MapID="1438" xpos="-535.745" ypos="120.158" zpos="178.186" type="hptrain.eod.kaineng.numbers.2" GUID="dH2T62Ua2EadrP6SpFtfDg=="/>
@@ -186,11 +183,9 @@
 		<POI MapID="1438" xpos="831.09" ypos="55.2866" zpos="-612.651" type="hptrain.eod.kaineng.map.arborstone" GUID="r93Zad3NJEm8jQBXWGBrjg=="/>
 		<Trail type="hptrain.eod.kaineng" trailData="Data\hpeod\kaineng.trl" />
 
-		<POI MapID="1428" xpos="-1124.88" ypos="8.3" zpos="741.003" type="hptrain.eod.echovald.hp_run" GUID="DSAOdYNAikeIzHFSdMXdNg=="/>
 		<POI MapID="1428" xpos="-1124.88" ypos="7.06802" zpos="741.003" type="hptrain.eod.echovald.numbers.1" GUID="DKGNgMF3s0C3KNG9OyjFEA=="/>
 		<POI MapID="1428" xpos="-1124.88" ypos="6.06802" zpos="741.003" type="hptrain.eod.echovald.hps.0" GUID="B9yTqb/YZUqE2n8t2gpy5w=="/>
 		<POI MapID="1428" xpos="-761.67" ypos="9.8215" zpos="623.824" type="hptrain.eod.echovald.map.echovald" GUID="WHt9brfxJE+9Gph0HsCaNQ=="/>
-		<POI MapID="1452" xpos="-651.327" ypos="164.8" zpos="356.011" type="hptrain.eod.echovald.hp_run" GUID="cik2WkcobECKLOugCTPEpQ=="/>
 		<POI MapID="1452" xpos="-651.327" ypos="162.661" zpos="356.011" type="hptrain.eod.echovald.numbers.1" GUID="h7xoGv1AZEGYOawFzuTbAw=="/>
 		<POI MapID="1452" xpos="-651.327" ypos="161.661" zpos="356.011" type="hptrain.eod.echovald.hps.1" GUID="tJ9YaV33Z0u7X+wioY5cig=="/>
 		<POI MapID="0" xpos="0" ypos="0" zpos="0" type="hptrain.eod.echovald.numbers.2" GUID="AAAAAAAAAAAAAAAAAAAAAA=="/>
@@ -211,8 +206,6 @@
 		<Trail type="hptrain.eod.echovald" trailData="Data\hpeod\echovald.trl" />
 		<Trail type="hptrain.eod.echovald" trailData="Data\hpeod\arborstone.trl" />
 
-		<POI MapID="1422" xpos="-579.285" ypos="233.621" zpos="1020.23" type="hptrain.eod.dragons_end.hp_run" GUID="smZL+mCczE68ZpdpAiEGyw=="/>
-		<POI MapID="1422" xpos="-193.531" ypos="178.514" zpos="842.773" type="hptrain.eod.dragons_end.hp_run" GUID="9GbBm+irzEeNHd79TbOY9A=="/>
 		<POI MapID="1422" xpos="-193.531" ypos="176.314" zpos="842.773" type="hptrain.eod.dragons_end.numbers.1" GUID="QZ58rdYJHECX/K9CkKj3hQ=="/>
 		<POI MapID="1422" xpos="-193.531" ypos="175.314" zpos="842.773" type="hptrain.eod.dragons_end.hps.1" GUID="kGNIPEvEzUiDPcf8mDVogQ=="/>
 		<POI MapID="1422" xpos="-115.853" ypos="243.721" zpos="974.198" type="hptrain.eod.dragons_end.numbers.2" GUID="1W8VUdyWUUOGEKaoUhTMuA=="/>
@@ -227,7 +220,6 @@
 		<POI MapID="1422" xpos="-7.94458" ypos="246.255" zpos="-316.353" type="hptrain.eod.dragons_end.wp.harvest" GUID="r5VNbHtmqEmKZPpaDauW/g=="/>
 		<POI MapID="1422" xpos="23.8605" ypos="161.065" zpos="-112.99" type="hptrain.eod.dragons_end.numbers.6" GUID="CmJOrl1fRkeeJEM/QVDatA=="/>
 		<POI MapID="1422" xpos="23.8605" ypos="160.065" zpos="-112.99" type="hptrain.eod.dragons_end.hps.6" GUID="MiRaLQIOC0WWL+F0+1Hc1w=="/>
-		<POI MapID="1422" xpos="479.453" ypos="161.014" zpos="-110.158" type="hptrain.eod.dragons_end.hp_run" GUID="5JH8zAV+SEu3se3XZxLpjA=="/>
 		<Trail type="hptrain.eod.dragons_end" trailData="Data\hpeod\dragons_end.trl" />
 
 
