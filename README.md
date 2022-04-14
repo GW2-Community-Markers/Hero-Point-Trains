@@ -4,6 +4,7 @@
 
 * Czokalapik - HOT
 * Spookycat - POF
+* u/redmagnos - EOD
 
 ### Assets
 
@@ -11,6 +12,7 @@
 * Spookycat - POF Specific
 * Tekkit - Other used icons
 * Tehs Trails - Other used Icons (Mounts in particular)
+* u/redmagnos - EOD stuff
 
 # Community Cont. & Merger of HP Trains
 
